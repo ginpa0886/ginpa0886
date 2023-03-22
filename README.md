@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logocolor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logocolor=white"/>
-<img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=CSharp&logocolor=white"/>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=CSharp&logocolor=white"/>
 
 <!--
 **ginpa0886/ginpa0886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
