@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there I'm GOMDI👋
 
-<div></div>
+
 <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c%2B%2B&logocolor=white"/> <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logocolor=white"/> <img src="https://img.shields.io/badge/Csharp-000000?style=flat-square&logo=csharp&logocolor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logocolor=white"/>
-
-
 
 
 <!--
