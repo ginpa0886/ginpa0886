@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="20" role="img" aria-label="C">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logocolor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logocolor=white"/>
 <img src="https://img.shields.io/badge/C--239120?style=flat-square&logo=CSharp&logocolor=white"/>
