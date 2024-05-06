@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c%2B%2B&logocolor=white"/> <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logocolor=white"/> <img src="https://img.shields.io/badge/Csharp-000000?style=flat-square&logo=csharp&logocolor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logocolor=white"/>
 
 개인 노션 페이지 : https://www.notion.so/3f511d3e16344b26bb2a616c075ba576
+혹시 백준에서 적어놓은 것 관련해서 글 읽으러 오신 분이라면 이곳으로 오시와요 : https://ossified-indigo-681.notion.site/365-6b8cda9631ca41bfbbbfbd7c877e4f88?pvs=4
 
 <!--
 **ginpa0886/ginpa0886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
